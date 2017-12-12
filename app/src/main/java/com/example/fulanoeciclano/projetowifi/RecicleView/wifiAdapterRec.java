@@ -37,7 +37,7 @@ public class wifiAdapterRec extends RecyclerView.Adapter<WifiHolder> {
         holder.botaoanunciar.setOnClickListener(new Button.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Log.i("123","Y Love PIROCA");
+                Log.i("123","teste do botao");
             }
         });
     }
