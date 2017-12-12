@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjetoWifi</string>
+    <string name="title_activity_formulario_activity">Formulario_activity</string>
+    <string name="title_activity_pag_inicial">PagInicial</string>
+</resources>
